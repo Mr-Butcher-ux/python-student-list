@@ -1,4 +1,3 @@
-#Bryan F. Rocha, CISA3309_600_202230: Scripting Languages, instructor: Zechun Cao, 07/03/2022
 #This program tries to simulate a student database.
 #The basic functions of this program are: Show all records, geat a specific student record,
 #Add a new record to the database and exit the database (without saving changes).
